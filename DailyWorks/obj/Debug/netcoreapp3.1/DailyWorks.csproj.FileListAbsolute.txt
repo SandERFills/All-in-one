@@ -1,0 +1,13 @@
+C:\Users\salag\source\repos\AllInOne\DailyWorks\bin\Debug\netcoreapp3.1\DailyWorks.exe
+C:\Users\salag\source\repos\AllInOne\DailyWorks\bin\Debug\netcoreapp3.1\DailyWorks.deps.json
+C:\Users\salag\source\repos\AllInOne\DailyWorks\bin\Debug\netcoreapp3.1\DailyWorks.runtimeconfig.json
+C:\Users\salag\source\repos\AllInOne\DailyWorks\bin\Debug\netcoreapp3.1\DailyWorks.runtimeconfig.dev.json
+C:\Users\salag\source\repos\AllInOne\DailyWorks\bin\Debug\netcoreapp3.1\DailyWorks.dll
+C:\Users\salag\source\repos\AllInOne\DailyWorks\bin\Debug\netcoreapp3.1\DailyWorks.pdb
+C:\Users\salag\source\repos\AllInOne\DailyWorks\obj\Debug\netcoreapp3.1\DailyWorks.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\AllInOne\DailyWorks\obj\Debug\netcoreapp3.1\DailyWorks.AssemblyInfo.cs
+C:\Users\salag\source\repos\AllInOne\DailyWorks\obj\Debug\netcoreapp3.1\DailyWorks.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\AllInOne\DailyWorks\obj\Debug\netcoreapp3.1\DailyWorks.dll
+C:\Users\salag\source\repos\AllInOne\DailyWorks\obj\Debug\netcoreapp3.1\DailyWorks.pdb
+C:\Users\salag\source\repos\AllInOne\DailyWorks\obj\Debug\netcoreapp3.1\DailyWorks.genruntimeconfig.cache
+C:\Users\salag\source\repos\AllInOne\DailyWorks\obj\Debug\netcoreapp3.1\DailyWorks.csprojAssemblyReference.cache

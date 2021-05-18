@@ -1,0 +1,13 @@
+C:\Users\salag\source\repos\AllInOne\EZGame\bin\Debug\netcoreapp3.1\EZGame.exe
+C:\Users\salag\source\repos\AllInOne\EZGame\bin\Debug\netcoreapp3.1\EZGame.deps.json
+C:\Users\salag\source\repos\AllInOne\EZGame\bin\Debug\netcoreapp3.1\EZGame.runtimeconfig.json
+C:\Users\salag\source\repos\AllInOne\EZGame\bin\Debug\netcoreapp3.1\EZGame.runtimeconfig.dev.json
+C:\Users\salag\source\repos\AllInOne\EZGame\bin\Debug\netcoreapp3.1\EZGame.dll
+C:\Users\salag\source\repos\AllInOne\EZGame\bin\Debug\netcoreapp3.1\EZGame.pdb
+C:\Users\salag\source\repos\AllInOne\EZGame\obj\Debug\netcoreapp3.1\EZGame.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\AllInOne\EZGame\obj\Debug\netcoreapp3.1\EZGame.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\AllInOne\EZGame\obj\Debug\netcoreapp3.1\EZGame.AssemblyInfo.cs
+C:\Users\salag\source\repos\AllInOne\EZGame\obj\Debug\netcoreapp3.1\EZGame.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\AllInOne\EZGame\obj\Debug\netcoreapp3.1\EZGame.dll
+C:\Users\salag\source\repos\AllInOne\EZGame\obj\Debug\netcoreapp3.1\EZGame.pdb
+C:\Users\salag\source\repos\AllInOne\EZGame\obj\Debug\netcoreapp3.1\EZGame.genruntimeconfig.cache

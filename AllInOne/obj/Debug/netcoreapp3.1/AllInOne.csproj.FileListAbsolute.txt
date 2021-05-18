@@ -1,0 +1,13 @@
+C:\Users\salag\source\repos\AllInOne\AllInOne\obj\Debug\netcoreapp3.1\AllInOne.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\AllInOne\AllInOne\obj\Debug\netcoreapp3.1\AllInOne.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\AllInOne\AllInOne\obj\Debug\netcoreapp3.1\AllInOne.AssemblyInfo.cs
+C:\Users\salag\source\repos\AllInOne\AllInOne\obj\Debug\netcoreapp3.1\AllInOne.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\AllInOne\AllInOne\bin\Debug\netcoreapp3.1\AllInOne.exe
+C:\Users\salag\source\repos\AllInOne\AllInOne\bin\Debug\netcoreapp3.1\AllInOne.deps.json
+C:\Users\salag\source\repos\AllInOne\AllInOne\bin\Debug\netcoreapp3.1\AllInOne.runtimeconfig.json
+C:\Users\salag\source\repos\AllInOne\AllInOne\bin\Debug\netcoreapp3.1\AllInOne.runtimeconfig.dev.json
+C:\Users\salag\source\repos\AllInOne\AllInOne\bin\Debug\netcoreapp3.1\AllInOne.dll
+C:\Users\salag\source\repos\AllInOne\AllInOne\bin\Debug\netcoreapp3.1\AllInOne.pdb
+C:\Users\salag\source\repos\AllInOne\AllInOne\obj\Debug\netcoreapp3.1\AllInOne.dll
+C:\Users\salag\source\repos\AllInOne\AllInOne\obj\Debug\netcoreapp3.1\AllInOne.pdb
+C:\Users\salag\source\repos\AllInOne\AllInOne\obj\Debug\netcoreapp3.1\AllInOne.genruntimeconfig.cache
